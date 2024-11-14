@@ -48,7 +48,7 @@ def jogar():
                 
             elif(menor):
                 print("Você errou! O Seu chute foi menor que o numero secreto")
-            print(f'o número correto era: {numero}') #comentar quando for jogar pois apresenta a resposta do game!
+            ## print(f'o número correto era: {numero}') #comentar quando for jogar pois apresenta a resposta do game!
             
 
     print('Fim do Jogo')
